@@ -1,0 +1,1 @@
+Welcome to javascript world!!............data is fetched by using text file.

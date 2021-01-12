@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(104, 112, 109);
+    padding: 30px 10px 50px 34px;
+    margin: 10px 10px;
+}
+
+
+#btn1{
+    background-color: aqua;
+    padding: 10px;
+    border: dotted;
+    font-style: italic;
+    cursor: pointer;
+    border-radius: 12px;
+    
+}
+#btn1:hover{
+    background-color: bisque;
+}
+#btn2:hover{
+    background-color: rgb(236, 184, 120);
+}
+#btn3:hover{
+    background-color: rgb(156, 96, 21);
+}
+
+#btn2{
+    background-color:cyan;
+    padding: 10px;
+    border: solid;
+    font-style:unset;
+    cursor:alias;
+    border-radius: 30%;
+}
+
+
+#btn3{
+    background-color: cyan;
+    padding: 10px;
+    border: dashed;
+    font-family: 'Times New Roman', Times, serif;
+    cursor: cell;
+    border-radius: 10;
+}
